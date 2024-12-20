@@ -1,7 +1,8 @@
 - 👋 Hi, I’m OVIE NATHANIEL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning react and tailwind css...
-- 💞️ I’m looking to collaborate on open source react projects...
+- 👀 I'm a Frontend Engineer with 2yrs + Experience
+- 🌱 I’m proficient in HTML, CSS, JAVASCRIPT, REACT JS, NEXTJS, TAILWIND CSS, REACT NATIVE, TYPESCRIPT
+- I'm currently learning RUST and how to develop on the solana blockchain
+- 💞️ I’m looking to collaborate on open source projects both in Web2 / web 3
 - 📫 How to reach me +234(09133604256)
 
 <!---
