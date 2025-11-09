@@ -58,10 +58,10 @@ I'm actively looking to collaborate on:
 
 ### 📫 Get In Touch
 
-- **Email**: ogheneovienathan@gmail.com
+→ **Email**: ogheneovienathan@gmail.com
 - **Phone**: +234 (0)913 360 4256
 - **LinkedIn**: [linkedin.com/in/ovie-nathaniel-oghenewede](https://www.linkedin.com/in/ovie-nathaniel-oghenewede/)
-- **Location**: Ughelli, Delta State, Nigeria
+- **Location**: Ughelli, Delta State, Nigeria | Lagos, Nigeria
 
 ---
 
